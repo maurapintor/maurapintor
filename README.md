@@ -1,16 +1,38 @@
-### Hi there 👋
+### 👩‍💻 Hi there 👋
 
-<!--
-**maurapintor/maurapintor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Maura's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurapintor)](https://github.com/maurapintor/github-readme-stats)
 
-Here are some ideas to get you started:
+I am Maura Pintor from 🇮🇹! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+
+### Technologies
+
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurapintor)](https://github.com/maurapintor/github-readme-stats)
+
+### Social Media
+
+You can find me on...
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maurapintor)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/maura.pintor)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maurapintor)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maupin91/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maura-pintor/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maura.pintor)
+
+### Or follow me directly with these links
+
+![Twitter](https://img.shields.io/twitter/follow/maurapintor?style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/maurapintor?style=social)
