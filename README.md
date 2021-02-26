@@ -8,9 +8,13 @@ For more info, visit my webpage @ [https://maurapintor.github.io/](https://maura
 [![Maura's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurapintor)](https://github.com/maurapintor/github-readme-stats)
 
 
+[![Twitter](https://img.shields.io/twitter/follow/maurapintor?style=social)](https://twitter.com/maurapintor)
+[![GitHub followers](https://img.shields.io/github/followers/maurapintor?style=social)](https://github.com/maurapintor)
+
+
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-FFF?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+![Python](https://img.shields.io/badge/-Python-FFF?&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-FFF?&logo=MySQL&logoColor=4479A1)
 
 ### Technologies
@@ -22,7 +26,8 @@ For more info, visit my webpage @ [https://maurapintor.github.io/](https://maura
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurapintor)](https://github.com/maurapintor/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurapintor&layout=compact)
+
 
 ### Social Media
 
@@ -34,9 +39,3 @@ You can find me on...
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maupin91/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maura-pintor/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maura.pintor)
-
-### Or follow me directly with these links
-
-![Twitter](https://img.shields.io/twitter/follow/maurapintor?style=social)
-
-![GitHub followers](https://img.shields.io/github/followers/maurapintor?style=social)
