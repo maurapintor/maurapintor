@@ -6,15 +6,15 @@ I am Maura Pintor from 🇮🇹!
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+[![Python](https://img.shields.io/badge/-Python-FFF?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+![SQL](https://img.shields.io/badge/-SQL-FFF?&logo=MySQL&logoColor=4479A1)
 
 ### Technologies
 
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-FFF?&logo=CircleCI&logoColor=888)
+![Docker](https://img.shields.io/badge/-Docker-FFF?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-FFF?&logo=Linux&logoColor=FCC624)
+![PyTorch](https://img.shields.io/badge/-PyTorch-FFF?&logo=PyTorch)
 
 ### Stats
 
