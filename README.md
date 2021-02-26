@@ -1,8 +1,12 @@
 ### 👩‍💻 Hi there 👋
 
+I am **Maura Pintor** from 🇮🇹! 
+
+For more info, visit my webpage @ [https://maurapintor.github.io/](https://maurapintor.github.io/)
+
+
 [![Maura's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurapintor)](https://github.com/maurapintor/github-readme-stats)
 
-I am Maura Pintor from 🇮🇹! 
 
 ### Languages
 
