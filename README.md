@@ -5,8 +5,7 @@ I am **Maura Pintor** from 🇮🇹!
 For more info, visit my webpage @ [https://maurapintor.github.io/](https://maurapintor.github.io/)
 
 
-[![Maura's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurapintor)](https://github.com/maurapintor/github-readme-stats)
-
+![Maura's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurapintor)
 
 [![Twitter](https://img.shields.io/twitter/follow/maurapintor?style=social)](https://twitter.com/maurapintor)
 [![GitHub followers](https://img.shields.io/github/followers/maurapintor?style=social)](https://github.com/maurapintor)
