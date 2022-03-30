@@ -4,11 +4,12 @@ I am **Maura Pintor** from 🇮🇹!
 
 For more info, visit my webpage @ [https://maurapintor.github.io/](https://maurapintor.github.io/)
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=maurapintor)](https://twitter.com/maurapintor)
+![Maura's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurapintor&count_private=true&show_icons=true)
 
-![Maura's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurapintor)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/maurapintor?style=social)](https://twitter.com/maurapintor)
 
-[![Twitter](https://img.shields.io/twitter/follow/maurapintor?style=social)](https://twitter.com/maurapintor)
-[![GitHub followers](https://img.shields.io/github/followers/maurapintor?style=social)](https://github.com/maurapintor)
+[![Follow me on GitHub](https://img.shields.io/github/followers/maurapintor?style=social)](https://github.com/maurapintor)
 
 
 ### Languages
