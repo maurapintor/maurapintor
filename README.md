@@ -39,3 +39,19 @@ You can find me on...
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maupin91/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maura-pintor/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maura.pintor)
+
+### ML Security Seminar Series
+
+I am one of the organizers of the ML Security Seminar Series on YouTube. 
+
+#### :pushpin: Subscribe to receive updates on the future events!
+
+Here you can find information about the events we organize: https://mlsec.eventbrite.com/
+Follow for receiving updates!
+
+#### :tv: Latest Seminar Events
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+ ➡️ [more videos...](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw)
