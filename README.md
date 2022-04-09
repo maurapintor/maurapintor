@@ -15,8 +15,8 @@ For more info, visit my webpage @ [https://maurapintor.github.io/](https://maura
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-FFF?&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-FFF?&logo=MySQL&logoColor=4479A1)
+![Python](https://img.shields.io/badge/-Python-FFF?&logo=python&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-FFF?&logo=MySQL&logoColor=4479A1&style=for-the-badge)
 
 ### Technologies
 
