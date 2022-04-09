@@ -42,4 +42,4 @@ You can find me on...
 
 ### ML Security Seminar Series
 
-I am one of the organizers of the ML Security Seminar Series on YouTube. For more information about the series, follow [this link](https://pralab.github.io/mlsec/)
+I am one of the organizers of the ML Security Seminar Series on YouTube. For more information about the series, follow [this link](https://pralab.github.io/mlsec/).
