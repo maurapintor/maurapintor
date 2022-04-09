@@ -5,11 +5,12 @@ I am **Maura Pintor** from 🇮🇹!
 For more info, visit my webpage @ [https://maurapintor.github.io/](https://maurapintor.github.io/)
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=maurapintor)](https://twitter.com/maurapintor)
+
 ![Maura's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurapintor&count_private=true&show_icons=true)
 
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/maurapintor?style=social)](https://twitter.com/maurapintor)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/maurapintor?style=social&style=for-the-badge)](https://twitter.com/maurapintor)
 
-[![Follow me on GitHub](https://img.shields.io/github/followers/maurapintor?style=social)](https://github.com/maurapintor)
+[![Follow me on GitHub](https://img.shields.io/github/followers/maurapintor?style=social&style=for-the-badge)](https://github.com/maurapintor)
 
 
 ### Languages
@@ -19,15 +20,14 @@ For more info, visit my webpage @ [https://maurapintor.github.io/](https://maura
 
 ### Technologies
 
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-FFF?&logo=CircleCI&logoColor=888)
-![Docker](https://img.shields.io/badge/-Docker-FFF?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-FFF?&logo=Linux&logoColor=FCC624)
-![PyTorch](https://img.shields.io/badge/-PyTorch-FFF?&logo=PyTorch)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-FFF?&logo=CircleCI&logoColor=888&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-FFF?&logo=Docker&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FFF?&logo=Linux&logoColor=FCC624&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-FFF?&logo=PyTorch&style=for-the-badge)
 
 ### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurapintor&layout=compact)
-
 
 ### Social Media
 
@@ -42,21 +42,4 @@ You can find me on...
 
 ### ML Security Seminar Series
 
-I am one of the organizers of the ML Security Seminar Series on YouTube. 
-
-#### :pushpin: Subscribe to receive updates on the future events!
-
-Here you can find information about the events we organize: https://mlsec.eventbrite.com/
-Follow for receiving updates!
-
-#### :tv: Latest Seminar Events
-
-<!-- BLOG-POST-LIST:START -->
-- [Machine Learning Security Seminar Series - Fabio Pierazzi](https://www.youtube.com/watch?v=Aa2gaL--bFw)
-- [Machine Learning Security Seminar Series - Francesco Croce](https://www.youtube.com/watch?v=MrRPTB0ZmJw)
-- [Machine Learning Security Seminar Series - Luca Oneto](https://www.youtube.com/watch?v=jbOCw-u8D_E)
-- [Machine Learning Security Seminar Series - Jérôme Rony](https://www.youtube.com/watch?v=ItnSgpgmXMI)
-- [Machine Learning Security Seminar Series - Eugene Bagdasaryan](https://www.youtube.com/watch?v=bfQ0V8Nif1Y)
-<!-- BLOG-POST-LIST:END -->
-
- ➡️ [more videos...](https://www.youtube.com/channel/UCfLweXOMiUVt0VUfBax1cRw)
+I am one of the organizers of the ML Security Seminar Series on YouTube. For more information about the series, follow [this link](https://pralab.github.io/mlsec/)
