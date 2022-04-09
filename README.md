@@ -8,9 +8,9 @@ For more info, visit my webpage @ [https://maurapintor.github.io/](https://maura
 
 ![Maura's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurapintor&count_private=true&show_icons=true)
 
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/maurapintor?style=social&style=for-the-badge)](https://twitter.com/maurapintor)
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/maurapintor?color=blue&label=%40maurapintor%20on%20Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/maurapintor)
 
-[![Follow me on GitHub](https://img.shields.io/github/followers/maurapintor?style=social&style=for-the-badge)](https://github.com/maurapintor)
+[![Follow me on GitHub](https://img.shields.io/github/followers/maurapintor?logo=github&style=for-the-badge)](https://github.com/maurapintor)
 
 
 ### Languages
