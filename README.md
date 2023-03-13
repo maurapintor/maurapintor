@@ -4,7 +4,6 @@ I am **Maura Pintor** from 🇮🇹!
 
 For more info, visit my webpage @ [https://maurapintor.github.io/](https://maurapintor.github.io/)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=maurapintor)](https://twitter.com/maurapintor)
 
 ![Maura's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurapintor&count_private=true&show_icons=true)
 
